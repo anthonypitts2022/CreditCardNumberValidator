@@ -1,6 +1,5 @@
 Name: Anthony Pitts
-Uni: aep2195
-Programming Project 2 readMe:
+
 
 
     This is a class to determine whether a specific credit card number is valid. It does this by checking whether
