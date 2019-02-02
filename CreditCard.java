@@ -1,5 +1,4 @@
 //Name: Anthony Pitts
-//Uni: aep2195
 // This is a class to determine whether a specific credit card number passes 6 specific parameters outlined below.
 // If it passes these parameters, isValid() = true. If not, isValid() = false.
 public class CreditCard{
